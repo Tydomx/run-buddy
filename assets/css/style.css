@@ -57,9 +57,9 @@ footer h2 {
 }
 
 footer div {
-    float: right;
+    float: center;
     line-height: 1.5;
-    text-align: right;
+    text-align: center;
 }
 
 footer a {
@@ -266,6 +266,4 @@ section {
     color: #fce138;
 }
 
-.footing-end a{
-    text-align: center;
-}
+
