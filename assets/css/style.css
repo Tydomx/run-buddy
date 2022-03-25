@@ -12,7 +12,7 @@
 
 body {
     /* another way to comment? */
-    color: #39a6b2;
+    color: var(--tertiary-color);
     font-family: Helvetica, Arial, sans-serif;
 }
 
